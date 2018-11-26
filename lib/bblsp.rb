@@ -1,6 +1,6 @@
 require "bblsp/version"
 
-module Bblsp
+module BBLsp
   class Error < StandardError; end
   # Your code goes here...
 end
